@@ -1,0 +1,13 @@
+{
+    "name": "pos-inventory/sistem-kasir-stok",
+    "description": "Sistem Kasir (POS) dan Manajemen Stok Berbasis Web dengan PHP 8 Native & MySQL",
+    "type": "project",
+    "require": {
+        "php": ">=8.0",
+        "phpoffice/phpspreadsheet": "^2.0",
+        "dompdf/dompdf": "^3.0"
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
